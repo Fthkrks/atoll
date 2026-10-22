@@ -1,0 +1,486 @@
+== de
+Text
+Dokumente
+Einstellungen
+Entwickelt von 4pp
+Das Modell muss vor der Übersetzung heruntergeladen oder ausgewählt werden.
+Übersetzungsfehler: {error}
+Fehler: {error}
+Herunterladen
+Sprachen tauschen
+Löschen
+Text eingeben...
+Übersetzen
+In die Zwischenablage kopieren
+Übersetzung in die Zwischenablage kopiert
+Wird übersetzt...
+Die Übersetzung erscheint hier
+Dokumentübersetzung
+Datei konnte nicht ausgewählt werden: {error}
+Speicherordner auswählen
+Dieses Dateiformat wird nicht unterstützt.
+Dokument erfolgreich übersetzt!
+Übersetzung abgebrochen.
+Bei der Übersetzung ist ein Fehler aufgetreten: {error}
+Tippen, um ein Dokument auszuwählen
+Speicherort:
+Ändern…
+Text in PDF-Bildern übersetzen (OCR)
+ML-Kit-OCR für gescannte Seiten und Diagramme
+Tabellenblattnamen übersetzen
+Dokument übersetzen
+Abbrechen
+Übersetzung wird vorbereitet...
+Zeile {done}/{total}
+Absatz {done}/{total}
+Gemeinsamer Text {done}/{total}
+Seite {done}/{total}
+Seite {done}/{total} – Text in Bildern wird gelesen
+Datei öffnen
+Teilen
+Quellsprache auswählen
+Zielsprache auswählen
+Sprache suchen...
+Sprache erkennen
+Einstellungen
+KI-Modell
+Modell herunterladen (1,05 GB)
+.gguf vom Gerät auswählen
+Download abbrechen
+Standardsprachen
+Standard-Quellsprache
+Standard-Zielsprache
+Dokumente & OCR
+PDF-OCR-Unterstützung
+Text in gescannten PDFs und Bildern übersetzen
+Excel-Blattnamen übersetzen
+Übersetzt auch die Titel der Tabellenblätter
+Darstellung
+App-Design
+System
+Hell
+Dunkel
+App-Sprache
+Systemstandard
+Info
+Vollständig offline arbeitende KI-Übersetzungs-App direkt auf dem Gerät. Angetrieben vom Modell Tencent HunYuan MT2 1.8B und der llama.cpp-FFI-Engine. Es werden niemals Texte oder Dokumente ins Internet gesendet.
+Modell nicht installiert
+Modell noch nicht heruntergeladen
+Modelldatei nicht gefunden: {path}
+Modell wird in den Speicher geladen...
+Modell bereit (HunYuan MT2 1.8B Offline)
+Fehler beim Laden des Modells: {error}
+Fehler bei der Dateiauswahl: {error}
+Download wird gestartet...
+Download abgebrochen (Fortschritt gespeichert)
+Wird heruntergeladen: {percent} %
+SHA256 wird überprüft...
+Download abgeschlossen, Modell wird geladen...
+Download abgebrochen
+Download-Fehler: {error}
+Download wird abgebrochen...
+== fr
+Texte
+Documents
+Réglages
+Créé par 4pp
+Le modèle doit être téléchargé ou sélectionné avant de traduire.
+Erreur de traduction : {error}
+Erreur : {error}
+Télécharger
+Inverser les langues
+Effacer
+Saisissez du texte...
+Traduire
+Copier dans le presse-papiers
+Traduction copiée dans le presse-papiers
+Traduction en cours...
+La traduction apparaîtra ici
+Traduction de documents
+Impossible de choisir le fichier : {error}
+Choisir le dossier d’enregistrement
+Ce format de fichier n’est pas pris en charge.
+Document traduit avec succès !
+Traduction annulée.
+Une erreur s’est produite pendant la traduction : {error}
+Appuyez pour choisir un document
+Emplacement d’enregistrement :
+Modifier…
+Traduire le texte des images PDF (OCR)
+OCR ML Kit pour les pages numérisées et les schémas
+Traduire les noms des feuilles
+Traduire le document
+Annuler
+Préparation de la traduction...
+Ligne {done}/{total}
+Paragraphe {done}/{total}
+Texte partagé {done}/{total}
+Page {done}/{total}
+Page {done}/{total} – lecture du texte des images
+Ouvrir le fichier
+Partager
+Choisir la langue source
+Choisir la langue cible
+Rechercher une langue...
+Détecter la langue
+Réglages
+Modèle d’IA
+Télécharger le modèle (1,05 Go)
+Choisir un .gguf sur l’appareil
+Annuler le téléchargement
+Langues par défaut
+Langue source par défaut
+Langue cible par défaut
+Documents et OCR
+Prise en charge de l’OCR PDF
+Traduire le texte des PDF numérisés et des images
+Traduire les noms des feuilles Excel
+Traduit aussi les titres des onglets du classeur
+Apparence
+Thème de l’application
+Système
+Clair
+Sombre
+Langue de l’application
+Par défaut du système
+À propos
+Application de traduction par IA fonctionnant entièrement hors ligne, sur l’appareil. Propulsée par le modèle Tencent HunYuan MT2 1.8B et le moteur FFI llama.cpp. Aucun texte ni document n’est jamais envoyé sur Internet.
+Modèle non installé
+Modèle pas encore téléchargé
+Fichier du modèle introuvable : {path}
+Chargement du modèle en mémoire...
+Modèle prêt (HunYuan MT2 1.8B hors ligne)
+Erreur lors du chargement du modèle : {error}
+Erreur lors du choix du fichier : {error}
+Démarrage du téléchargement...
+Téléchargement annulé (progression conservée)
+Téléchargement : {percent} %
+Vérification SHA256...
+Téléchargement terminé, chargement du modèle...
+Téléchargement annulé
+Erreur de téléchargement : {error}
+Annulation du téléchargement...
+== es
+Texto
+Documentos
+Ajustes
+Hecho por 4pp
+Hay que descargar o seleccionar el modelo antes de traducir.
+Error de traducción: {error}
+Error: {error}
+Descargar
+Intercambiar idiomas
+Borrar
+Escribe un texto...
+Traducir
+Copiar al portapapeles
+Traducción copiada al portapapeles
+Traduciendo...
+La traducción aparecerá aquí
+Traducción de documentos
+No se pudo elegir el archivo: {error}
+Elegir carpeta de destino
+Este formato de archivo no es compatible.
+¡Documento traducido correctamente!
+Traducción cancelada.
+Se produjo un error durante la traducción: {error}
+Toca para elegir un documento
+Ubicación de guardado:
+Cambiar…
+Traducir el texto de las imágenes del PDF (OCR)
+OCR de ML Kit para páginas escaneadas y diagramas
+Traducir nombres de hojas
+Traducir documento
+Cancelar
+Preparando la traducción...
+Línea {done}/{total}
+Párrafo {done}/{total}
+Texto compartido {done}/{total}
+Página {done}/{total}
+Página {done}/{total} – leyendo el texto de las imágenes
+Abrir archivo
+Compartir
+Elegir idioma de origen
+Elegir idioma de destino
+Buscar idioma...
+Detectar idioma
+Ajustes
+Modelo de IA
+Descargar modelo (1,05 GB)
+Elegir .gguf del dispositivo
+Cancelar descarga
+Idiomas predeterminados
+Idioma de origen predeterminado
+Idioma de destino predeterminado
+Documentos y OCR
+Compatibilidad con OCR en PDF
+Traduce el texto de PDF escaneados e imágenes
+Traducir nombres de hojas de Excel
+También traduce los títulos de las pestañas de la hoja de cálculo
+Apariencia
+Tema de la aplicación
+Sistema
+Claro
+Oscuro
+Idioma de la aplicación
+Predeterminado del sistema
+Acerca de
+Aplicación de traducción con IA que funciona totalmente sin conexión y en el dispositivo. Impulsada por el modelo Tencent HunYuan MT2 1.8B y el motor FFI llama.cpp. Ningún texto ni documento se envía nunca a Internet.
+Modelo no instalado
+El modelo aún no se ha descargado
+No se encontró el archivo del modelo: {path}
+Cargando el modelo en la memoria...
+Modelo listo (HunYuan MT2 1.8B sin conexión)
+Error al cargar el modelo: {error}
+Error al elegir el archivo: {error}
+Iniciando la descarga...
+Descarga cancelada (se conservó el progreso)
+Descargando: {percent} %
+Verificando SHA256...
+Descarga completada, cargando el modelo...
+Descarga cancelada
+Error de descarga: {error}
+Cancelando la descarga...
+== it
+Testo
+Documenti
+Impostazioni
+Realizzato da 4pp
+Prima di tradurre è necessario scaricare o selezionare il modello.
+Errore di traduzione: {error}
+Errore: {error}
+Scarica
+Inverti lingue
+Cancella
+Inserisci il testo...
+Traduci
+Copia negli appunti
+Traduzione copiata negli appunti
+Traduzione in corso...
+La traduzione apparirà qui
+Traduzione di documenti
+Impossibile scegliere il file: {error}
+Scegli la cartella di salvataggio
+Questo formato di file non è supportato.
+Documento tradotto con successo!
+Traduzione annullata.
+Si è verificato un errore durante la traduzione: {error}
+Tocca per scegliere un documento
+Percorso di salvataggio:
+Cambia…
+Traduci il testo nelle immagini del PDF (OCR)
+OCR ML Kit per pagine scansionate e diagrammi
+Traduci i nomi dei fogli
+Traduci documento
+Annulla
+Preparazione della traduzione...
+Riga {done}/{total}
+Paragrafo {done}/{total}
+Testo condiviso {done}/{total}
+Pagina {done}/{total}
+Pagina {done}/{total} – lettura del testo nelle immagini
+Apri file
+Condividi
+Scegli la lingua di origine
+Scegli la lingua di destinazione
+Cerca lingua...
+Rileva lingua
+Impostazioni
+Modello IA
+Scarica il modello (1,05 GB)
+Scegli un .gguf dal dispositivo
+Annulla download
+Lingue predefinite
+Lingua di origine predefinita
+Lingua di destinazione predefinita
+Documenti e OCR
+Supporto OCR per PDF
+Traduci il testo di PDF scansionati e immagini
+Traduci i nomi dei fogli Excel
+Traduce anche i titoli delle schede del foglio di calcolo
+Aspetto
+Tema dell’app
+Sistema
+Chiaro
+Scuro
+Lingua dell’app
+Predefinita di sistema
+Informazioni
+App di traduzione IA completamente offline e sul dispositivo. Basata sul modello Tencent HunYuan MT2 1.8B e sul motore FFI llama.cpp. Nessun testo o documento viene mai inviato a Internet.
+Modello non installato
+Modello non ancora scaricato
+File del modello non trovato: {path}
+Caricamento del modello in memoria...
+Modello pronto (HunYuan MT2 1.8B offline)
+Errore durante il caricamento del modello: {error}
+Errore durante la scelta del file: {error}
+Avvio del download...
+Download annullato (avanzamento conservato)
+Download in corso: {percent}%
+Verifica SHA256...
+Download completato, caricamento del modello...
+Download annullato
+Errore di download: {error}
+Annullamento del download...
+== pt
+Texto
+Documentos
+Ajustes
+Feito por 4pp
+É necessário baixar ou selecionar o modelo antes de traduzir.
+Erro de tradução: {error}
+Erro: {error}
+Baixar
+Trocar idiomas
+Limpar
+Digite o texto...
+Traduzir
+Copiar para a área de transferência
+Tradução copiada para a área de transferência
+Traduzindo...
+A tradução aparecerá aqui
+Tradução de documentos
+Não foi possível escolher o arquivo: {error}
+Escolher pasta de destino
+Este formato de arquivo não é compatível.
+Documento traduzido com sucesso!
+Tradução cancelada.
+Ocorreu um erro durante a tradução: {error}
+Toque para escolher um documento
+Local de salvamento:
+Alterar…
+Traduzir texto em imagens do PDF (OCR)
+OCR do ML Kit para páginas digitalizadas e diagramas
+Traduzir nomes das planilhas
+Traduzir documento
+Cancelar
+Preparando a tradução...
+Linha {done}/{total}
+Parágrafo {done}/{total}
+Texto compartilhado {done}/{total}
+Página {done}/{total}
+Página {done}/{total} – lendo o texto das imagens
+Abrir arquivo
+Compartilhar
+Escolher idioma de origem
+Escolher idioma de destino
+Pesquisar idioma...
+Detectar idioma
+Ajustes
+Modelo de IA
+Baixar modelo (1,05 GB)
+Escolher .gguf do dispositivo
+Cancelar download
+Idiomas padrão
+Idioma de origem padrão
+Idioma de destino padrão
+Documentos e OCR
+Suporte a OCR em PDF
+Traduzir texto de PDFs digitalizados e imagens
+Traduzir nomes das planilhas do Excel
+Também traduz os títulos das abas da planilha
+Aparência
+Tema do app
+Sistema
+Claro
+Escuro
+Idioma do app
+Padrão do sistema
+Sobre
+App de tradução com IA totalmente offline e no próprio dispositivo. Desenvolvido com o modelo Tencent HunYuan MT2 1.8B e o motor FFI llama.cpp. Nenhum texto ou documento é enviado à internet.
+Modelo não instalado
+Modelo ainda não baixado
+Arquivo do modelo não encontrado: {path}
+Carregando o modelo na memória...
+Modelo pronto (HunYuan MT2 1.8B offline)
+Erro ao carregar o modelo: {error}
+Erro ao escolher o arquivo: {error}
+Iniciando o download...
+Download cancelado (progresso mantido)
+Baixando: {percent}%
+Verificando SHA256...
+Download concluído, carregando o modelo...
+Download cancelado
+Erro de download: {error}
+Cancelando o download...
+== nl
+Tekst
+Documenten
+Instellingen
+Gemaakt door 4pp
+Het model moet worden gedownload of geselecteerd voordat je kunt vertalen.
+Vertaalfout: {error}
+Fout: {error}
+Downloaden
+Talen omwisselen
+Wissen
+Voer tekst in...
+Vertalen
+Kopiëren naar klembord
+Vertaling naar klembord gekopieerd
+Bezig met vertalen...
+De vertaling verschijnt hier
+Documentvertaling
+Bestand kiezen mislukt: {error}
+Opslagmap kiezen
+Dit bestandsformaat wordt niet ondersteund.
+Document succesvol vertaald!
+Vertaling geannuleerd.
+Er is een fout opgetreden tijdens het vertalen: {error}
+Tik om een document te kiezen
+Opslaglocatie:
+Wijzigen…
+Tekst in pdf-afbeeldingen vertalen (OCR)
+ML Kit-OCR voor gescande pagina’s en diagrammen
+Namen van werkbladen vertalen
+Document vertalen
+Annuleren
+Vertaling voorbereiden...
+Regel {done}/{total}
+Alinea {done}/{total}
+Gedeelde tekst {done}/{total}
+Pagina {done}/{total}
+Pagina {done}/{total} – tekst in afbeeldingen lezen
+Bestand openen
+Delen
+Brontaal kiezen
+Doeltaal kiezen
+Taal zoeken...
+Taal detecteren
+Instellingen
+AI-model
+Model downloaden (1,05 GB)
+.gguf van apparaat kiezen
+Download annuleren
+Standaardtalen
+Standaard brontaal
+Standaard doeltaal
+Documenten en OCR
+Ondersteuning voor pdf-OCR
+Tekst in gescande pdf’s en afbeeldingen vertalen
+Excel-werkbladnamen vertalen
+Vertaalt ook de titels van de werkbladtabbladen
+Weergave
+App-thema
+Systeem
+Licht
+Donker
+App-taal
+Systeemstandaard
+Over
+Volledig offline AI-vertaalapp die op het apparaat zelf draait. Aangedreven door het Tencent HunYuan MT2 1.8B-model en de llama.cpp FFI-engine. Er worden nooit teksten of documenten naar internet verzonden.
+Model niet geïnstalleerd
+Model nog niet gedownload
+Modelbestand niet gevonden: {path}
+Model laden in het geheugen...
+Model gereed (HunYuan MT2 1.8B offline)
+Fout bij het laden van het model: {error}
+Fout bij het kiezen van het bestand: {error}
+Download starten...
+Download geannuleerd (voortgang bewaard)
+Downloaden: {percent}%
+SHA256 controleren...
+Download voltooid, model wordt geladen...
+Download geannuleerd
+Downloadfout: {error}
+Download annuleren...

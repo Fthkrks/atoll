@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024">
+<defs>
+<radialGradient id="bg" cx="50%" cy="42%" r="75%"><stop offset="0" stop-color="#12315A"/><stop offset="1" stop-color="#071326"/></radialGradient>
+<linearGradient id="reef" x1="140" y1="900" x2="880" y2="130" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#0E9AA7"/><stop offset="1" stop-color="#5CF2E0"/></linearGradient>
+<radialGradient id="lagoon" cx="50%" cy="50%" r="50%"><stop offset="0" stop-color="#2FD0C8" stop-opacity=".30"/><stop offset="1" stop-color="#0E9AA7" stop-opacity=".06"/></radialGradient>
+</defs>
+<g transform="translate(512 512) scale(0.86) translate(-512 -512)">
+<circle cx="512" cy="512" r="334.0" fill="url(#lagoon)"/>
+<path d="M720.7 224.8 A355 355 0 1 0 799.2 303.3" fill="none" stroke="url(#reef)" stroke-width="50" stroke-linecap="round"/>
+<g fill="none" stroke="#F2FFFD" stroke-width="30" stroke-linecap="round" stroke-linejoin="round">
+<path d="M262 626 L352 398 L442 626 M292 556 H412"/>
+<path d="M582 478 H762 M672 428 V478 M634 506 L752 624 M714 506 L592 624" stroke-width="28"/>
+</g>
+<g fill="none" stroke="#5CF2E0" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+<path d="M468 484 H556 M534 462 L556 484 L534 506"/>
+<path d="M556 560 H468 M490 538 L468 560 L490 582"/>
+</g>
+</g>
+</svg>

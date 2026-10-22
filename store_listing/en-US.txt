@@ -1,0 +1,41 @@
+TITLE (25/30)
+Atoll: Offline Translator
+
+SHORT DESCRIPTION (61/80)
+Works with no internet. Private on-device translator, no ads.
+
+FULL DESCRIPTION (1678/4000)
+Atoll translates fully offline. No internet connection, no account, no ads, no data collection. Everything runs on your phone, so it works in airplane mode.
+
+PRIVATE BY DESIGN
+- Your text and documents never leave your device
+- No account, no sign-up, no tracking, no analytics
+- No ads
+- After a one-time model download, Atoll never needs the internet again
+
+POWERFUL ON-DEVICE AI
+Atoll runs the Tencent Hy-MT2 1.8B translation model directly on your phone using llama.cpp. 38 languages are supported, including Chinese, English, Turkish, French, German, Spanish, Portuguese, Italian, Russian, Arabic, Japanese, Korean, Hindi, Persian, Urdu, Vietnamese, Thai and many more.
+
+TEXT TRANSLATION
+Type or paste text, pick a language pair or let Atoll detect the source language, and get a translation in seconds.
+
+DOCUMENT TRANSLATION WITH LAYOUT PRESERVED
+Translate whole files and keep their formatting:
+- DOCX (Word)
+- PPTX (PowerPoint)
+- XLSX (Excel)
+- PDF
+- TXT and MD
+
+Fonts, styles, tables, slides and sheets stay in place, and you choose where the translated file is saved.
+
+OCR FOR SCANNED PDFS
+Scanned PDFs and image-based pages are read with on-device OCR and then translated, still without sending anything online.
+
+ONE-TIME MODEL DOWNLOAD
+On first launch Atoll downloads the translation model once (about 1.1 GB). Use Wi-Fi if possible and make sure you have enough free storage. After that, everything works offline.
+
+WHO IS IT FOR
+Travelers without roaming, students, researchers, professionals handling confidential documents, and anyone who wants translation without giving up their privacy.
+
+The interface is available in dozens of languages. Atoll is made by 4pp Studio.

@@ -1,0 +1,648 @@
+== zh
+文本
+文档
+设置
+由 4pp 制作
+翻译前需要先下载或选择模型。
+翻译出错：{error}
+错误：{error}
+下载
+互换语言
+清除
+输入文本...
+翻译
+复制到剪贴板
+译文已复制到剪贴板
+正在翻译...
+译文将显示在这里
+文档翻译
+无法选择文件：{error}
+选择保存文件夹
+不支持此文件格式。
+文档翻译成功！
+翻译已取消。
+翻译过程中出错：{error}
+点按以选择文档
+保存位置：
+更改…
+翻译 PDF 图片中的文字 (OCR)
+使用 ML Kit OCR 处理扫描页面和图表
+翻译工作表名称
+翻译文档
+取消
+正在准备翻译...
+第 {done}/{total} 行
+第 {done}/{total} 段
+共享文本 {done}/{total}
+第 {done}/{total} 页
+第 {done}/{total} 页 – 正在识别图片中的文字
+打开文件
+分享
+选择源语言
+选择目标语言
+搜索语言...
+检测语言
+设置
+AI 模型
+下载模型 (1.05 GB)
+从设备选择 .gguf
+取消下载
+默认语言
+默认源语言
+默认目标语言
+文档与 OCR
+PDF OCR 支持
+翻译扫描版 PDF 和图片中的文字
+翻译 Excel 工作表名称
+同时翻译表格标签页的标题
+外观
+应用主题
+跟随系统
+浅色
+深色
+应用语言
+跟随系统
+关于
+完全离线、在设备上运行的 AI 翻译应用。由腾讯混元 MT2 1.8B 模型和 llama.cpp FFI 引擎提供支持。任何文本或文档都不会发送到互联网。
+未安装模型
+尚未下载模型
+找不到模型文件：{path}
+正在将模型加载到内存...
+模型已就绪 (HunYuan MT2 1.8B 离线)
+加载模型时出错：{error}
+选择文件时出错：{error}
+正在开始下载...
+下载已取消（已保留进度）
+正在下载：{percent}%
+正在校验 SHA256...
+下载完成，正在加载模型...
+下载已取消
+下载出错：{error}
+正在取消下载...
+== zh_Hant
+文字
+文件
+設定
+由 4pp 製作
+翻譯前需要先下載或選擇模型。
+翻譯錯誤：{error}
+錯誤：{error}
+下載
+互換語言
+清除
+輸入文字...
+翻譯
+複製到剪貼簿
+譯文已複製到剪貼簿
+翻譯中...
+譯文將顯示在這裡
+文件翻譯
+無法選擇檔案：{error}
+選擇儲存資料夾
+不支援此檔案格式。
+文件翻譯成功！
+翻譯已取消。
+翻譯過程中發生錯誤：{error}
+點一下以選擇文件
+儲存位置：
+變更…
+翻譯 PDF 圖片中的文字 (OCR)
+使用 ML Kit OCR 處理掃描頁面和圖表
+翻譯工作表名稱
+翻譯文件
+取消
+正在準備翻譯...
+第 {done}/{total} 行
+第 {done}/{total} 段
+共用文字 {done}/{total}
+第 {done}/{total} 頁
+第 {done}/{total} 頁 – 正在辨識圖片中的文字
+開啟檔案
+分享
+選擇來源語言
+選擇目標語言
+搜尋語言...
+偵測語言
+設定
+AI 模型
+下載模型 (1.05 GB)
+從裝置選擇 .gguf
+取消下載
+預設語言
+預設來源語言
+預設目標語言
+文件與 OCR
+PDF OCR 支援
+翻譯掃描版 PDF 和圖片中的文字
+翻譯 Excel 工作表名稱
+同時翻譯試算表分頁的標題
+外觀
+應用程式主題
+系統
+淺色
+深色
+應用程式語言
+系統預設
+關於
+完全離線、在裝置上執行的 AI 翻譯應用程式。由騰訊混元 MT2 1.8B 模型和 llama.cpp FFI 引擎提供支援。任何文字或文件都不會傳送到網際網路。
+尚未安裝模型
+尚未下載模型
+找不到模型檔案：{path}
+正在將模型載入記憶體...
+模型已就緒 (HunYuan MT2 1.8B 離線)
+載入模型時發生錯誤：{error}
+選擇檔案時發生錯誤：{error}
+正在開始下載...
+下載已取消（已保留進度）
+下載中：{percent}%
+正在驗證 SHA256...
+下載完成，正在載入模型...
+下載已取消
+下載錯誤：{error}
+正在取消下載...
+== yue
+文字
+文件
+設定
+由 4pp 製作
+翻譯之前，要先下載或者揀選模型。
+翻譯出錯：{error}
+錯誤：{error}
+下載
+對調語言
+清除
+輸入文字...
+翻譯
+複製去剪貼簿
+譯文已經複製去剪貼簿
+翻譯緊...
+譯文會喺呢度顯示
+文件翻譯
+揀唔到檔案：{error}
+揀選儲存資料夾
+唔支援呢個檔案格式。
+文件翻譯成功！
+翻譯已經取消。
+翻譯途中出錯：{error}
+撳一下揀選文件
+儲存位置：
+更改…
+翻譯 PDF 圖片入面嘅文字 (OCR)
+用 ML Kit OCR 處理掃描頁面同圖表
+翻譯工作表名稱
+翻譯文件
+取消
+準備緊翻譯...
+第 {done}/{total} 行
+第 {done}/{total} 段
+共用文字 {done}/{total}
+第 {done}/{total} 頁
+第 {done}/{total} 頁 – 認緊圖片入面嘅文字
+開啟檔案
+分享
+揀選來源語言
+揀選目標語言
+搜尋語言...
+偵測語言
+設定
+AI 模型
+下載模型 (1.05 GB)
+由裝置揀選 .gguf
+取消下載
+預設語言
+預設來源語言
+預設目標語言
+文件同 OCR
+PDF OCR 支援
+翻譯掃描版 PDF 同圖片入面嘅文字
+翻譯 Excel 工作表名稱
+同時翻譯試算表分頁嘅標題
+外觀
+應用程式主題
+系統
+淺色
+深色
+應用程式語言
+系統預設
+關於
+完全離線、喺裝置上面運行嘅 AI 翻譯應用程式。由騰訊混元 MT2 1.8B 模型同 llama.cpp FFI 引擎驅動。任何文字或者文件都唔會傳送去互聯網。
+未安裝模型
+未下載模型
+搵唔到模型檔案：{path}
+將模型載入記憶體緊...
+模型準備好 (HunYuan MT2 1.8B 離線)
+載入模型時出錯：{error}
+揀選檔案時出錯：{error}
+開始下載緊...
+下載已取消（已保留進度）
+下載緊：{percent}%
+驗證緊 SHA256...
+下載完成，載入緊模型...
+下載已取消
+下載出錯：{error}
+取消緊下載...
+== vi
+Văn bản
+Tài liệu
+Cài đặt
+Phát triển bởi 4pp
+Cần tải xuống hoặc chọn mô hình trước khi dịch.
+Lỗi dịch: {error}
+Lỗi: {error}
+Tải xuống
+Hoán đổi ngôn ngữ
+Xóa
+Nhập văn bản...
+Dịch
+Sao chép vào bộ nhớ tạm
+Đã sao chép bản dịch vào bộ nhớ tạm
+Đang dịch...
+Bản dịch sẽ xuất hiện ở đây
+Dịch tài liệu
+Không thể chọn tệp: {error}
+Chọn thư mục lưu
+Định dạng tệp này không được hỗ trợ.
+Đã dịch tài liệu thành công!
+Đã hủy dịch.
+Đã xảy ra lỗi trong khi dịch: {error}
+Nhấn để chọn tài liệu
+Vị trí lưu:
+Thay đổi…
+Dịch văn bản trong hình ảnh của PDF (OCR)
+ML Kit OCR cho trang quét và sơ đồ
+Dịch tên trang tính
+Dịch tài liệu
+Hủy
+Đang chuẩn bị bản dịch...
+Dòng {done}/{total}
+Đoạn {done}/{total}
+Văn bản dùng chung {done}/{total}
+Trang {done}/{total}
+Trang {done}/{total} – đang đọc văn bản trong hình ảnh
+Mở tệp
+Chia sẻ
+Chọn ngôn ngữ nguồn
+Chọn ngôn ngữ đích
+Tìm ngôn ngữ...
+Phát hiện ngôn ngữ
+Cài đặt
+Mô hình AI
+Tải mô hình (1,05 GB)
+Chọn tệp .gguf từ thiết bị
+Hủy tải xuống
+Ngôn ngữ mặc định
+Ngôn ngữ nguồn mặc định
+Ngôn ngữ đích mặc định
+Tài liệu và OCR
+Hỗ trợ OCR cho PDF
+Dịch văn bản trong PDF quét và hình ảnh
+Dịch tên trang tính Excel
+Dịch cả tiêu đề các thẻ của bảng tính
+Giao diện
+Chủ đề ứng dụng
+Hệ thống
+Sáng
+Tối
+Ngôn ngữ ứng dụng
+Mặc định của hệ thống
+Giới thiệu
+Ứng dụng dịch bằng AI hoàn toàn ngoại tuyến, chạy ngay trên thiết bị. Được vận hành bởi mô hình Tencent HunYuan MT2 1.8B và công cụ llama.cpp FFI. Không có văn bản hay tài liệu nào được gửi lên internet.
+Chưa cài đặt mô hình
+Mô hình chưa được tải xuống
+Không tìm thấy tệp mô hình: {path}
+Đang nạp mô hình vào bộ nhớ...
+Mô hình đã sẵn sàng (HunYuan MT2 1.8B ngoại tuyến)
+Lỗi khi nạp mô hình: {error}
+Lỗi khi chọn tệp: {error}
+Đang bắt đầu tải xuống...
+Đã hủy tải xuống (giữ nguyên tiến độ)
+Đang tải xuống: {percent}%
+Đang xác minh SHA256...
+Tải xuống hoàn tất, đang nạp mô hình...
+Đã hủy tải xuống
+Lỗi tải xuống: {error}
+Đang hủy tải xuống...
+== th
+ข้อความ
+เอกสาร
+การตั้งค่า
+สร้างโดย 4pp
+ต้องดาวน์โหลดหรือเลือกโมเดลก่อนจึงจะแปลได้
+ข้อผิดพลาดในการแปล: {error}
+ข้อผิดพลาด: {error}
+ดาวน์โหลด
+สลับภาษา
+ล้าง
+พิมพ์ข้อความ...
+แปล
+คัดลอกไปยังคลิปบอร์ด
+คัดลอกคำแปลไปยังคลิปบอร์ดแล้ว
+กำลังแปล...
+คำแปลจะแสดงที่นี่
+แปลเอกสาร
+เลือกไฟล์ไม่ได้: {error}
+เลือกโฟลเดอร์สำหรับบันทึก
+ไม่รองรับรูปแบบไฟล์นี้
+แปลเอกสารสำเร็จแล้ว!
+ยกเลิกการแปลแล้ว
+เกิดข้อผิดพลาดระหว่างการแปล: {error}
+แตะเพื่อเลือกเอกสาร
+ตำแหน่งที่บันทึก:
+เปลี่ยน…
+แปลข้อความในรูปภาพของ PDF (OCR)
+ML Kit OCR สำหรับหน้าที่สแกนและแผนภาพ
+แปลชื่อแผ่นงาน
+แปลเอกสาร
+ยกเลิก
+กำลังเตรียมการแปล...
+บรรทัด {done}/{total}
+ย่อหน้า {done}/{total}
+ข้อความที่แชร์ {done}/{total}
+หน้า {done}/{total}
+หน้า {done}/{total} – กำลังอ่านข้อความในรูปภาพ
+เปิดไฟล์
+แชร์
+เลือกภาษาต้นทาง
+เลือกภาษาปลายทาง
+ค้นหาภาษา...
+ตรวจหาภาษา
+การตั้งค่า
+โมเดล AI
+ดาวน์โหลดโมเดล (1.05 GB)
+เลือกไฟล์ .gguf จากอุปกรณ์
+ยกเลิกการดาวน์โหลด
+ภาษาเริ่มต้น
+ภาษาต้นทางเริ่มต้น
+ภาษาปลายทางเริ่มต้น
+เอกสารและ OCR
+รองรับ OCR สำหรับ PDF
+แปลข้อความใน PDF ที่สแกนและรูปภาพ
+แปลชื่อแผ่นงาน Excel
+แปลชื่อแท็บของสเปรดชีตด้วย
+รูปลักษณ์
+ธีมของแอป
+ตามระบบ
+สว่าง
+มืด
+ภาษาของแอป
+ค่าเริ่มต้นของระบบ
+เกี่ยวกับ
+แอปแปลภาษาด้วย AI ที่ทำงานบนอุปกรณ์แบบออฟไลน์ทั้งหมด ขับเคลื่อนด้วยโมเดล Tencent HunYuan MT2 1.8B และเอนจิน llama.cpp FFI ไม่มีข้อความหรือเอกสารใดถูกส่งไปยังอินเทอร์เน็ต
+ยังไม่ได้ติดตั้งโมเดล
+ยังไม่ได้ดาวน์โหลดโมเดล
+ไม่พบไฟล์โมเดล: {path}
+กำลังโหลดโมเดลเข้าหน่วยความจำ...
+โมเดลพร้อมใช้งาน (HunYuan MT2 1.8B ออฟไลน์)
+เกิดข้อผิดพลาดขณะโหลดโมเดล: {error}
+เกิดข้อผิดพลาดขณะเลือกไฟล์: {error}
+กำลังเริ่มดาวน์โหลด...
+ยกเลิกการดาวน์โหลดแล้ว (เก็บความคืบหน้าไว้)
+กำลังดาวน์โหลด: {percent}%
+กำลังตรวจสอบ SHA256...
+ดาวน์โหลดเสร็จแล้ว กำลังโหลดโมเดล...
+ยกเลิกการดาวน์โหลดแล้ว
+ข้อผิดพลาดในการดาวน์โหลด: {error}
+กำลังยกเลิกการดาวน์โหลด...
+== id
+Teks
+Dokumen
+Pengaturan
+Dibuat oleh 4pp
+Model harus diunduh atau dipilih sebelum menerjemahkan.
+Kesalahan terjemahan: {error}
+Kesalahan: {error}
+Unduh
+Tukar bahasa
+Hapus
+Masukkan teks...
+Terjemahkan
+Salin ke papan klip
+Terjemahan disalin ke papan klip
+Menerjemahkan...
+Terjemahan akan muncul di sini
+Terjemahan dokumen
+Tidak dapat memilih file: {error}
+Pilih folder penyimpanan
+Format file ini tidak didukung.
+Dokumen berhasil diterjemahkan!
+Terjemahan dibatalkan.
+Terjadi kesalahan saat menerjemahkan: {error}
+Ketuk untuk memilih dokumen
+Lokasi simpan:
+Ubah…
+Terjemahkan teks pada gambar PDF (OCR)
+ML Kit OCR untuk halaman pindaian dan diagram
+Terjemahkan nama lembar
+Terjemahkan dokumen
+Batal
+Menyiapkan terjemahan...
+Baris {done}/{total}
+Paragraf {done}/{total}
+Teks bersama {done}/{total}
+Halaman {done}/{total}
+Halaman {done}/{total} – membaca teks pada gambar
+Buka file
+Bagikan
+Pilih bahasa sumber
+Pilih bahasa tujuan
+Cari bahasa...
+Deteksi bahasa
+Pengaturan
+Model AI
+Unduh model (1,05 GB)
+Pilih .gguf dari perangkat
+Batalkan unduhan
+Bahasa default
+Bahasa sumber default
+Bahasa tujuan default
+Dokumen & OCR
+Dukungan OCR PDF
+Terjemahkan teks di PDF pindaian dan gambar
+Terjemahkan nama lembar Excel
+Juga menerjemahkan judul tab lembar kerja
+Tampilan
+Tema aplikasi
+Sistem
+Terang
+Gelap
+Bahasa aplikasi
+Default sistem
+Tentang
+Aplikasi terjemahan AI yang sepenuhnya offline dan berjalan di perangkat. Didukung oleh model Tencent HunYuan MT2 1.8B dan mesin llama.cpp FFI. Tidak ada teks atau dokumen yang dikirim ke internet.
+Model belum terpasang
+Model belum diunduh
+File model tidak ditemukan: {path}
+Memuat model ke memori...
+Model siap (HunYuan MT2 1.8B offline)
+Terjadi kesalahan saat memuat model: {error}
+Terjadi kesalahan saat memilih file: {error}
+Memulai unduhan...
+Unduhan dibatalkan (progres disimpan)
+Mengunduh: {percent}%
+Memverifikasi SHA256...
+Unduhan selesai, memuat model...
+Unduhan dibatalkan
+Kesalahan unduhan: {error}
+Membatalkan unduhan...
+== ms
+Teks
+Dokumen
+Tetapan
+Dibuat oleh 4pp
+Model perlu dimuat turun atau dipilih sebelum menterjemah.
+Ralat terjemahan: {error}
+Ralat: {error}
+Muat turun
+Tukar bahasa
+Kosongkan
+Masukkan teks...
+Terjemah
+Salin ke papan keratan
+Terjemahan disalin ke papan keratan
+Sedang menterjemah...
+Terjemahan akan dipaparkan di sini
+Terjemahan dokumen
+Tidak dapat memilih fail: {error}
+Pilih folder simpanan
+Format fail ini tidak disokong.
+Dokumen berjaya diterjemahkan!
+Terjemahan dibatalkan.
+Ralat berlaku semasa menterjemah: {error}
+Ketik untuk memilih dokumen
+Lokasi simpanan:
+Tukar…
+Terjemah teks dalam imej PDF (OCR)
+ML Kit OCR untuk halaman imbasan dan rajah
+Terjemah nama helaian
+Terjemah dokumen
+Batal
+Menyediakan terjemahan...
+Baris {done}/{total}
+Perenggan {done}/{total}
+Teks kongsi {done}/{total}
+Halaman {done}/{total}
+Halaman {done}/{total} – membaca teks dalam imej
+Buka fail
+Kongsi
+Pilih bahasa sumber
+Pilih bahasa sasaran
+Cari bahasa...
+Kesan bahasa
+Tetapan
+Model AI
+Muat turun model (1.05 GB)
+Pilih .gguf daripada peranti
+Batalkan muat turun
+Bahasa lalai
+Bahasa sumber lalai
+Bahasa sasaran lalai
+Dokumen & OCR
+Sokongan OCR PDF
+Terjemah teks dalam PDF imbasan dan imej
+Terjemah nama helaian Excel
+Turut menterjemah tajuk tab hamparan
+Penampilan
+Tema aplikasi
+Sistem
+Cerah
+Gelap
+Bahasa aplikasi
+Lalai sistem
+Perihal
+Aplikasi terjemahan AI yang berfungsi sepenuhnya luar talian pada peranti. Dikuasakan oleh model Tencent HunYuan MT2 1.8B dan enjin llama.cpp FFI. Tiada teks atau dokumen dihantar ke internet.
+Model belum dipasang
+Model belum dimuat turun
+Fail model tidak ditemui: {path}
+Memuatkan model ke dalam memori...
+Model sedia (HunYuan MT2 1.8B luar talian)
+Ralat semasa memuatkan model: {error}
+Ralat semasa memilih fail: {error}
+Memulakan muat turun...
+Muat turun dibatalkan (kemajuan disimpan)
+Memuat turun: {percent}%
+Mengesahkan SHA256...
+Muat turun selesai, memuatkan model...
+Muat turun dibatalkan
+Ralat muat turun: {error}
+Membatalkan muat turun...
+== fil
+Teksto
+Mga Dokumento
+Mga Setting
+Gawa ng 4pp
+Kailangang i-download o piliin ang model bago magsalin.
+Error sa pagsasalin: {error}
+Error: {error}
+I-download
+Ipagpalit ang mga wika
+I-clear
+Maglagay ng teksto...
+Isalin
+Kopyahin sa clipboard
+Nakopya sa clipboard ang salin
+Isinasalin...
+Dito lalabas ang salin
+Pagsasalin ng Dokumento
+Hindi napili ang file: {error}
+Pumili ng folder na paglalagyan
+Hindi sinusuportahan ang format ng file na ito.
+Matagumpay na naisalin ang dokumento!
+Kinansela ang pagsasalin.
+May naganap na error habang nagsasalin: {error}
+I-tap para pumili ng dokumento
+Lokasyon ng pag-save:
+Baguhin…
+Isalin ang teksto sa mga larawan ng PDF (OCR)
+ML Kit OCR para sa mga na-scan na pahina at diagram
+Isalin ang mga pangalan ng sheet
+Isalin ang dokumento
+Kanselahin
+Inihahanda ang pagsasalin...
+Linya {done}/{total}
+Talata {done}/{total}
+Ibinahaging teksto {done}/{total}
+Pahina {done}/{total}
+Pahina {done}/{total} – binabasa ang teksto sa mga larawan
+Buksan ang file
+Ibahagi
+Pumili ng pinagmulang wika
+Pumili ng target na wika
+Maghanap ng wika...
+Tukuyin ang wika
+Mga Setting
+AI Model
+I-download ang model (1.05 GB)
+Pumili ng .gguf mula sa device
+Kanselahin ang pag-download
+Mga default na wika
+Default na pinagmulang wika
+Default na target na wika
+Mga Dokumento at OCR
+Suporta sa OCR ng PDF
+Isalin ang teksto sa mga na-scan na PDF at larawan
+Isalin ang mga pangalan ng sheet ng Excel
+Isinasalin din ang mga pamagat ng tab ng spreadsheet
+Hitsura
+Tema ng app
+System
+Maliwanag
+Madilim
+Wika ng app
+Default ng system
+Tungkol
+Ganap na offline na AI translation app na tumatakbo sa mismong device. Pinapagana ng modelong Tencent HunYuan MT2 1.8B at ng llama.cpp FFI engine. Walang teksto o dokumentong ipinapadala sa internet.
+Hindi pa naka-install ang model
+Hindi pa na-download ang model
+Hindi makita ang file ng model: {path}
+Nilo-load ang model sa memorya...
+Handa na ang model (HunYuan MT2 1.8B Offline)
+Error habang nilo-load ang model: {error}
+Error habang pumipili ng file: {error}
+Sinisimulan ang pag-download...
+Kinansela ang pag-download (nai-save ang progreso)
+Dina-download: {percent}%
+Bine-verify ang SHA256...
+Tapos na ang pag-download, nilo-load ang model...
+Kinansela ang pag-download
+Error sa pag-download: {error}
+Kinakansela ang pag-download...

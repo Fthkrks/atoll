@@ -1,0 +1,162 @@
+== en
+Text
+Documents
+Settings
+Made by 4pp
+The model needs to be downloaded or selected before translating.
+Translation error: {error}
+Error: {error}
+Download
+Swap languages
+Clear
+Enter text...
+Translate
+Copy to clipboard
+Translation copied to clipboard
+Translating...
+The translation will appear here
+Document translation
+Could not pick the file: {error}
+Choose save folder
+This file format is not supported.
+Document translated successfully!
+Translation cancelled.
+An error occurred during translation: {error}
+Tap to choose a document
+Save location:
+Change…
+Translate text in PDF images (OCR)
+ML Kit OCR for scanned pages and diagrams
+Translate sheet names
+Translate document
+Cancel
+Preparing translation...
+Line {done}/{total}
+Paragraph {done}/{total}
+Shared text {done}/{total}
+Page {done}/{total}
+Page {done}/{total} – reading text in images
+Open file
+Share
+Choose source language
+Choose target language
+Search language...
+Detect language
+Settings
+AI model
+Download model (1.05 GB)
+Choose .gguf from device
+Cancel download
+Default languages
+Default source language
+Default target language
+Documents & OCR
+PDF OCR support
+Translate text in scanned PDFs and images
+Translate Excel sheet names
+Also translates the titles of spreadsheet tabs
+Appearance
+App theme
+System
+Light
+Dark
+App language
+System default
+About
+Fully offline, on-device AI translation app. Powered by the Tencent HunYuan MT2 1.8B model and the llama.cpp FFI engine. No text or document is ever sent to the internet.
+Model not installed
+Model not downloaded yet
+Model file not found: {path}
+Loading model into memory...
+Model ready (HunYuan MT2 1.8B Offline)
+Error while loading the model: {error}
+Error while picking the file: {error}
+Starting download...
+Download cancelled (progress kept)
+Downloading: {percent}%
+Verifying SHA256...
+Download complete, loading model...
+Download cancelled
+Download error: {error}
+Cancelling download...
+== tr
+Metin
+Belge
+Ayarlar
+4pp tarafından yapılmıştır
+Çeviri için modelin indirilmesi veya seçilmesi gerekiyor.
+Çeviri hatası: {error}
+Hata: {error}
+İndir
+Dilleri değiştir
+Temizle
+Metin girin...
+Çevir
+Panoya kopyala
+Çeviri panoya kopyalandı
+Çevriliyor...
+Çeviri burada görünecektir
+Belge Çevirisi
+Dosya seçilemedi: {error}
+Kayıt klasörünü seçin
+Bu dosya formatı desteklenmiyor.
+Belge başarıyla çevrildi!
+Çeviri iptal edildi.
+Çeviri sırasında hata oluştu: {error}
+Belge Seçmek İçin Dokunun
+Kayıt Yeri:
+Değiştir…
+PDF görsellerindeki metinleri çevir (OCR)
+Taranmış sayfalar ve şemalar için ML Kit OCR
+Sayfa adlarını çevir
+Belgeyi Çevir
+İptal
+Çeviri hazırlanıyor...
+Satır {done}/{total}
+Paragraf {done}/{total}
+Paylaşılan Metin {done}/{total}
+Sayfa {done}/{total}
+Sayfa {done}/{total} – görsel metni okunuyor
+Dosyayı Aç
+Paylaş
+Kaynak Dil Seçin
+Hedef Dil Seçin
+Dil ara...
+Dili algıla
+Ayarlar
+Yapay Zeka Modeli
+Modeli İndir (1.05 GB)
+Cihazdan .gguf Seç
+İptal Et
+Varsayılan Diller
+Varsayılan Kaynak Dil
+Varsayılan Hedef Dil
+Belge ve OCR Ayarları
+PDF OCR Desteği
+Taranmış PDF ve görsellerdeki metinleri çevir
+Excel Sayfa İsimlerini Çevir
+Tablo sayfalarının başlıklarını da tercüme eder
+Görünüm
+Uygulama Teması
+Sistem
+Açık
+Koyu
+Uygulama Dili
+Sistem varsayılanı
+Hakkında
+Tamamen çevrimdışı ve cihaz üzerinde çalışan yapay zeka çeviri uygulaması. Tencent HunYuan MT2 1.8B modeli ve llama.cpp FFI motoru ile güçlendirilmiştir. Hiçbir metin veya belge internete gönderilmez.
+Model yüklü değil
+Model henüz indirilmedi
+Model dosyası bulunamadı: {path}
+Model belleğe yükleniyor...
+Model hazır (HunYuan MT2 1.8B Offline)
+Model yüklenirken hata oluştu: {error}
+Dosya seçilirken hata: {error}
+İndirme başlatılıyor...
+İndirme iptal edildi (kaldığı yer saklandı)
+İndiriliyor: {percent}%
+SHA256 doğrulanıyor...
+İndirme tamamlandı, model yükleniyor...
+İndirme iptal edildi
+İndirme hatası: {error}
+İndirme iptal ediliyor...

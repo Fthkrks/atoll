@@ -1,0 +1,41 @@
+TITLE (26/30)
+Atoll: Çevrimdışı Çevirmen
+
+SHORT DESCRIPTION (63/80)
+İnternetsiz çalışır. Cihazda çalışan gizli çevirmen, reklamsız.
+
+FULL DESCRIPTION (1684/4000)
+Atoll tamamen çevrimdışı çevirir. İnternet bağlantısı, hesap, reklam ve veri toplama yok. Her şey telefonunuzda çalışır, uçak modunda bile kullanabilirsiniz.
+
+TASARIMI GEREĞİ GİZLİ
+- Metinleriniz ve belgeleriniz cihazınızdan asla çıkmaz
+- Hesap, kayıt, takip ve analiz yok
+- Reklam yok
+- Model bir kez indirildikten sonra Atoll bir daha internete ihtiyaç duymaz
+
+CİHAZ ÜSTÜNDE GÜÇLÜ YAPAY ZEKA
+Atoll, Tencent Hy-MT2 1.8B çeviri modelini llama.cpp ile doğrudan telefonunuzda çalıştırır. Çince, İngilizce, Türkçe, Fransızca, Almanca, İspanyolca, Portekizce, İtalyanca, Rusça, Arapça, Japonca, Korece, Hintçe, Farsça, Urduca, Vietnamca, Tayca ve daha fazlası dahil 38 dil desteklenir.
+
+METİN ÇEVİRİSİ
+Metni yazın veya yapıştırın, dil çiftini seçin ya da kaynak dili Atoll'un algılamasına izin verin; saniyeler içinde çeviriyi alın.
+
+DÜZENİ KORUYAN BELGE ÇEVİRİSİ
+Dosyaların tamamını biçimlendirmeyi bozmadan çevirin:
+- DOCX (Word)
+- PPTX (PowerPoint)
+- XLSX (Excel)
+- PDF
+- TXT ve MD
+
+Yazı tipleri, stiller, tablolar, slaytlar ve sayfalar yerinde kalır; çevrilen dosyanın nereye kaydedileceğini siz seçersiniz.
+
+TARANMIŞ PDF'LER İÇİN OCR
+Taranmış PDF'ler ve görüntü tabanlı sayfalar cihaz üstünde OCR ile okunur ve çevrilir; yine hiçbir şey internete gönderilmez.
+
+BİR KEZLİK MODEL İNDİRMESİ
+İlk açılışta Atoll çeviri modelini bir kez indirir (yaklaşık 1,1 GB). Mümkünse Wi-Fi kullanın ve yeterli boş depolama alanınız olduğundan emin olun. Sonrasında her şey çevrimdışı çalışır.
+
+KİMLER İÇİN
+Dolaşımsız seyahat edenler, öğrenciler, araştırmacılar, gizli belgelerle çalışan profesyoneller ve gizliliğinden ödün vermeden çeviri yapmak isteyen herkes.
+
+Atoll, 4pp Studio tarafından geliştirilmiştir.

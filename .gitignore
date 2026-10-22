@@ -1,0 +1,22 @@
+# Secrets - never commit
+keys/
+*.jks
+*.keystore
+key.properties
+**/android/key.properties
+
+# Release artifacts (too large for GitHub)
+release/
+*.aab
+*.apk
+
+# Agent logs
+logs/
+
+# Build output
+**/build/
+**/.dart_tool/
+**/.gradle/
+**/android/.kotlin/
+*.gguf
+*.gguf.part

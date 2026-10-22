@@ -1,0 +1,15 @@
+﻿--------- beginning of main
+10-20 09:57:45.604  4166  4191 I flutter : [IMPORTANT:flutter/shell/platform/android/android_context_gl_impeller.cc(104)] Using the Impeller rendering backend (OpenGLES).
+10-20 09:57:45.687  4166  4198 I flutter : The Dart VM service is listening on http://127.0.0.1:36533/w1Hfp1ZCysI=/
+10-20 09:58:20.674  4295  4319 I flutter : [IMPORTANT:flutter/shell/platform/android/android_context_gl_impeller.cc(104)] Using the Impeller rendering backend (OpenGLES).
+10-20 09:58:20.804  4295  4326 I flutter : The Dart VM service is listening on http://127.0.0.1:45073/86SLqhjSVRc=/
+10-20 10:00:26.110  4772  4795 I flutter : [IMPORTANT:flutter/shell/platform/android/android_context_gl_impeller.cc(104)] Using the Impeller rendering backend (OpenGLES).
+10-20 10:00:26.206  4772  4802 I flutter : The Dart VM service is listening on http://127.0.0.1:33853/ZjNvnDN2FCI=/
+10-20 10:01:52.595  4960  4987 I flutter : The Dart VM service is listening on http://127.0.0.1:42923/4117sDacq5I=/
+10-20 10:01:53.111  4960  4980 I flutter : [IMPORTANT:flutter/shell/platform/android/android_context_gl_impeller.cc(104)] Using the Impeller rendering backend (OpenGLES).
+10-20 10:14:20.762  6045  6067 I flutter : [IMPORTANT:flutter/shell/platform/android/android_context_gl_impeller.cc(104)] Using the Impeller rendering backend (OpenGLES).
+10-20 10:14:20.853  6045  6074 I flutter : The Dart VM service is listening on http://127.0.0.1:46713/Yfm9UQDvbwY=/
+10-20 10:17:25.942  6285  6309 I flutter : [IMPORTANT:flutter/shell/platform/android/android_context_gl_impeller.cc(104)] Using the Impeller rendering backend (OpenGLES).
+10-20 10:17:25.992  6285  6317 I flutter : The Dart VM service is listening on http://127.0.0.1:43095/dPOdTsFL_04=/
+10-20 10:18:16.759  6405  6429 I flutter : [IMPORTANT:flutter/shell/platform/android/android_context_gl_impeller.cc(104)] Using the Impeller rendering backend (OpenGLES).
+10-20 10:18:16.828  6405  6436 I flutter : The Dart VM service is listening on http://127.0.0.1:40021/uwDmFssekfc=/

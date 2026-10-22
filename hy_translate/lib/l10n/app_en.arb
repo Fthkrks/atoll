@@ -1,0 +1,254 @@
+{
+  "@@locale": "en",
+  "navText": "Text",
+  "navDocuments": "Documents",
+  "navSettings": "Settings",
+  "madeBy": "Made by 4pp",
+  "modelRequired": "The model needs to be downloaded or selected before translating.",
+  "translationError": "Translation error: {error}",
+  "@translationError": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "genericError": "Error: {error}",
+  "@genericError": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "download": "Download",
+  "swapLanguages": "Swap languages",
+  "clear": "Clear",
+  "inputHint": "Enter text...",
+  "translate": "Translate",
+  "copyToClipboard": "Copy to clipboard",
+  "translationCopied": "Translation copied to clipboard",
+  "translating": "Translating...",
+  "translationPlaceholder": "The translation will appear here",
+  "documentTitle": "Document translation",
+  "pickFileError": "Could not pick the file: {error}",
+  "@pickFileError": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "chooseSaveFolder": "Choose save folder",
+  "unsupportedFormat": "This file format is not supported.",
+  "documentDone": "Document translated successfully!",
+  "translationCancelled": "Translation cancelled.",
+  "documentError": "An error occurred during translation: {error}",
+  "@documentError": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "tapToPickDocument": "Tap to choose a document",
+  "saveLocation": "Save location:",
+  "change": "Change…",
+  "pdfOcrTitle": "Translate text in PDF images (OCR)",
+  "pdfOcrSubtitle": "ML Kit OCR for scanned pages and diagrams",
+  "sheetNamesShort": "Translate sheet names",
+  "translateDocument": "Translate document",
+  "cancel": "Cancel",
+  "preparing": "Preparing translation...",
+  "progressLine": "Line {done}/{total}",
+  "@progressLine": {
+    "placeholders": {
+      "done": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "progressParagraph": "Paragraph {done}/{total}",
+  "@progressParagraph": {
+    "placeholders": {
+      "done": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "progressSharedText": "Shared text {done}/{total}",
+  "@progressSharedText": {
+    "placeholders": {
+      "done": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "progressPage": "Page {done}/{total}",
+  "@progressPage": {
+    "placeholders": {
+      "done": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "progressPageOcr": "Page {done}/{total} – reading text in images",
+  "@progressPageOcr": {
+    "placeholders": {
+      "done": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "openFile": "Open file",
+  "share": "Share",
+  "selectSourceLanguage": "Choose source language",
+  "selectTargetLanguage": "Choose target language",
+  "searchLanguage": "Search language...",
+  "detectLanguage": "Detect language",
+  "settingsTitle": "Settings",
+  "aiModel": "AI model",
+  "downloadModel": "Download model (1.05 GB)",
+  "pickGguf": "Choose .gguf from device",
+  "cancelDownload": "Cancel download",
+  "defaultLanguages": "Default languages",
+  "defaultSourceLanguage": "Default source language",
+  "defaultTargetLanguage": "Default target language",
+  "documentsOcr": "Documents & OCR",
+  "pdfOcrSupport": "PDF OCR support",
+  "pdfOcrSupportDesc": "Translate text in scanned PDFs and images",
+  "sheetNames": "Translate Excel sheet names",
+  "sheetNamesDesc": "Also translates the titles of spreadsheet tabs",
+  "appearance": "Appearance",
+  "appTheme": "App theme",
+  "themeSystem": "System",
+  "themeLight": "Light",
+  "themeDark": "Dark",
+  "appLanguage": "App language",
+  "systemDefault": "System default",
+  "about": "About",
+  "aboutDescription": "Fully offline, on-device AI translation app. Powered by the Tencent HunYuan MT2 1.8B model and the llama.cpp FFI engine. No text or document is ever sent to the internet.",
+  "modelNotInstalled": "Model not installed",
+  "modelNotDownloaded": "Model not downloaded yet",
+  "modelFileNotFound": "Model file not found: {path}",
+  "@modelFileNotFound": {
+    "placeholders": {
+      "path": {
+        "type": "String"
+      }
+    }
+  },
+  "modelLoading": "Loading model into memory...",
+  "modelReady": "Model ready (HunYuan MT2 1.8B Offline)",
+  "modelLoadError": "The model file could not be loaded. It may be damaged. Download it again or pick another file.",
+  "@modelLoadError": {
+    "description": "Short user-facing error message when model file fails to load"
+  },
+  "modelPickError": "Error while picking the file: {error}",
+  "@modelPickError": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "downloadStarting": "Starting download...",
+  "downloadCancelledKept": "Download cancelled (progress kept)",
+  "downloadingPercent": "Downloading: {percent}%",
+  "@downloadingPercent": {
+    "placeholders": {
+      "percent": {
+        "type": "String"
+      }
+    }
+  },
+  "verifyingSha": "Verifying SHA256...",
+  "downloadCompleteLoading": "Download complete, loading model...",
+  "downloadCancelled": "Download cancelled",
+  "downloadError": "Download error: {error}",
+  "@downloadError": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "cancellingDownload": "Cancelling download...",
+  "onboardingHeadline": "Translate without internet",
+  "onboardingBenefitOffline": "Works fully offline after setup",
+  "onboardingBenefitPrivate": "Private, nothing leaves your device",
+  "onboardingBenefitFormats": "Translate text and documents",
+  "onboardingSizeNote": "One-time download: about {size} GB. Wi-Fi recommended.",
+  "onboardingDownloadButton": "Download model",
+  "onboardingBackgroundNote": "You can leave the app; download will resume where you left off.",
+  "onboardingTryAgain": "Try again",
+  "onboardingHaveGguf": "I already have a .gguf file",
+  "@onboardingHeadline": {
+    "description": "Headline on the onboarding screen"
+  },
+  "@onboardingBenefitOffline": {
+    "description": "First benefit: offline usage"
+  },
+  "@onboardingBenefitPrivate": {
+    "description": "Second benefit: privacy"
+  },
+  "@onboardingBenefitFormats": {
+    "description": "Third benefit: text and documents"
+  },
+  "@onboardingSizeNote": {
+    "description": "Download size note with computed size",
+    "placeholders": {
+      "size": {
+        "type": "String"
+      }
+    }
+  },
+  "@onboardingDownloadButton": {
+    "description": "Primary button to start model download"
+  },
+  "@onboardingBackgroundNote": {
+    "description": "Note that download can be resumed if app is closed"
+  },
+  "@onboardingTryAgain": {
+    "description": "Button to retry model download after error"
+  },
+  "@onboardingHaveGguf": {
+    "description": "Secondary button to pick a local gguf model file"
+  },
+  "downloadErrorNetwork": "Network error. Please check your connection.",
+  "@downloadErrorNetwork": {
+    "description": "Short error message when download fails due to network issues"
+  },
+  "downloadErrorServer": "Server error ({code}). Please try again later.",
+  "@downloadErrorServer": {
+    "description": "Short error message when download fails with HTTP error code",
+    "placeholders": {
+      "code": {
+        "type": "String"
+      }
+    }
+  },
+  "downloadErrorVerification": "Verification failed. The downloaded file is corrupted.",
+  "@downloadErrorVerification": {
+    "description": "Short error message when SHA256 checksum fails"
+  },
+  "downloadErrorGeneric": "Download failed. Please try again.",
+  "@downloadErrorGeneric": {
+    "description": "Generic short error message for download failure"
+  }
+}
